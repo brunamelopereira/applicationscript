@@ -1,5 +1,5 @@
 def soma(a, b):
     return a+b
 
-retorno = soma(1, 2)
+retorno = soma(6, 6)
 print(retorno)
