@@ -6,7 +6,7 @@ def calcular_media(notas):
 
 def main():
     notas = []
-    for i in range(1, 5):
+    for i in range(1, 6):
         nota = float(input(f"Digite a nota {i}: "))
         notas.append(nota)
 
